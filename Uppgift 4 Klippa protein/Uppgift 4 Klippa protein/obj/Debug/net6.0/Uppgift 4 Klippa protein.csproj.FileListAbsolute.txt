@@ -1,0 +1,14 @@
+C:\Users\emsj06001\source\repos\Uppgift 4 Klippa protein\Uppgift 4 Klippa protein\bin\Debug\net6.0\Uppgift 4 Klippa protein.exe
+C:\Users\emsj06001\source\repos\Uppgift 4 Klippa protein\Uppgift 4 Klippa protein\bin\Debug\net6.0\Uppgift 4 Klippa protein.deps.json
+C:\Users\emsj06001\source\repos\Uppgift 4 Klippa protein\Uppgift 4 Klippa protein\bin\Debug\net6.0\Uppgift 4 Klippa protein.runtimeconfig.json
+C:\Users\emsj06001\source\repos\Uppgift 4 Klippa protein\Uppgift 4 Klippa protein\bin\Debug\net6.0\Uppgift 4 Klippa protein.dll
+C:\Users\emsj06001\source\repos\Uppgift 4 Klippa protein\Uppgift 4 Klippa protein\bin\Debug\net6.0\Uppgift 4 Klippa protein.pdb
+C:\Users\emsj06001\source\repos\Uppgift 4 Klippa protein\Uppgift 4 Klippa protein\obj\Debug\net6.0\Uppgift 4 Klippa protein.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emsj06001\source\repos\Uppgift 4 Klippa protein\Uppgift 4 Klippa protein\obj\Debug\net6.0\Uppgift 4 Klippa protein.AssemblyInfoInputs.cache
+C:\Users\emsj06001\source\repos\Uppgift 4 Klippa protein\Uppgift 4 Klippa protein\obj\Debug\net6.0\Uppgift 4 Klippa protein.AssemblyInfo.cs
+C:\Users\emsj06001\source\repos\Uppgift 4 Klippa protein\Uppgift 4 Klippa protein\obj\Debug\net6.0\Uppgift 4 Klippa protein.csproj.CoreCompileInputs.cache
+C:\Users\emsj06001\source\repos\Uppgift 4 Klippa protein\Uppgift 4 Klippa protein\obj\Debug\net6.0\Uppgift 4 Klippa protein.dll
+C:\Users\emsj06001\source\repos\Uppgift 4 Klippa protein\Uppgift 4 Klippa protein\obj\Debug\net6.0\refint\Uppgift 4 Klippa protein.dll
+C:\Users\emsj06001\source\repos\Uppgift 4 Klippa protein\Uppgift 4 Klippa protein\obj\Debug\net6.0\Uppgift 4 Klippa protein.pdb
+C:\Users\emsj06001\source\repos\Uppgift 4 Klippa protein\Uppgift 4 Klippa protein\obj\Debug\net6.0\Uppgift 4 Klippa protein.genruntimeconfig.cache
+C:\Users\emsj06001\source\repos\Uppgift 4 Klippa protein\Uppgift 4 Klippa protein\obj\Debug\net6.0\ref\Uppgift 4 Klippa protein.dll

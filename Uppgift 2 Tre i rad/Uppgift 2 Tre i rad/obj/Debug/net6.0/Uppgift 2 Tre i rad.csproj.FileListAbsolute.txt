@@ -1,0 +1,14 @@
+C:\Users\emsj06001\source\repos\Uppgift 2 Tre i rad\Uppgift 2 Tre i rad\bin\Debug\net6.0\Uppgift 2 Tre i rad.exe
+C:\Users\emsj06001\source\repos\Uppgift 2 Tre i rad\Uppgift 2 Tre i rad\bin\Debug\net6.0\Uppgift 2 Tre i rad.deps.json
+C:\Users\emsj06001\source\repos\Uppgift 2 Tre i rad\Uppgift 2 Tre i rad\bin\Debug\net6.0\Uppgift 2 Tre i rad.runtimeconfig.json
+C:\Users\emsj06001\source\repos\Uppgift 2 Tre i rad\Uppgift 2 Tre i rad\bin\Debug\net6.0\Uppgift 2 Tre i rad.dll
+C:\Users\emsj06001\source\repos\Uppgift 2 Tre i rad\Uppgift 2 Tre i rad\bin\Debug\net6.0\Uppgift 2 Tre i rad.pdb
+C:\Users\emsj06001\source\repos\Uppgift 2 Tre i rad\Uppgift 2 Tre i rad\obj\Debug\net6.0\Uppgift 2 Tre i rad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emsj06001\source\repos\Uppgift 2 Tre i rad\Uppgift 2 Tre i rad\obj\Debug\net6.0\Uppgift 2 Tre i rad.AssemblyInfoInputs.cache
+C:\Users\emsj06001\source\repos\Uppgift 2 Tre i rad\Uppgift 2 Tre i rad\obj\Debug\net6.0\Uppgift 2 Tre i rad.AssemblyInfo.cs
+C:\Users\emsj06001\source\repos\Uppgift 2 Tre i rad\Uppgift 2 Tre i rad\obj\Debug\net6.0\Uppgift 2 Tre i rad.csproj.CoreCompileInputs.cache
+C:\Users\emsj06001\source\repos\Uppgift 2 Tre i rad\Uppgift 2 Tre i rad\obj\Debug\net6.0\Uppgift 2 Tre i rad.dll
+C:\Users\emsj06001\source\repos\Uppgift 2 Tre i rad\Uppgift 2 Tre i rad\obj\Debug\net6.0\refint\Uppgift 2 Tre i rad.dll
+C:\Users\emsj06001\source\repos\Uppgift 2 Tre i rad\Uppgift 2 Tre i rad\obj\Debug\net6.0\Uppgift 2 Tre i rad.pdb
+C:\Users\emsj06001\source\repos\Uppgift 2 Tre i rad\Uppgift 2 Tre i rad\obj\Debug\net6.0\Uppgift 2 Tre i rad.genruntimeconfig.cache
+C:\Users\emsj06001\source\repos\Uppgift 2 Tre i rad\Uppgift 2 Tre i rad\obj\Debug\net6.0\ref\Uppgift 2 Tre i rad.dll
